@@ -1,0 +1,12 @@
+h1{
+    background-color: rgb(104, 16, 116);
+    align-content: center;
+}
+h2{
+    background-color:rgba(116, 17, 209, 0.507);
+    align-content: left;
+}
+p{
+    background-color: black;
+    align-items: center;
+}
